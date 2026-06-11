@@ -1,0 +1,13 @@
+{
+  "background_color": "#0a0d13",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "שולה המוקשים PRO",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Minesweeper",
+  "start_url": "https://yehudaws.github.io/minesweeper_pro_max_table_tight/",
+  "theme_color": "#0a0d13",
+  "description": "משחק שולה מוקשים בעברית",
+  "lang": "he"
+}
